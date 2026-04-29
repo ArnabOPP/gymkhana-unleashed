@@ -32,7 +32,7 @@ export const events: Event[] = [
     desc: "The heartbeat of IEM's cultural legacy — an annual extravaganza featuring incredible talent, exciting competitions, and unforgettable performances.",
     fullDesc: "IEMPACT 2026 is the annual cultural festival of IEM-UEM Group, held on 16th & 17th January at IEM Management House. A joint initiative bringing together creators, artists, and performers for two days of non-stop energy.",
     highlights: ["16th–17th January 2026", "IEM Management House", "Annual Cultural Fest", "Multi-day Extravaganza"],
-    eventHead: "Priyanshu Pathak",
+    eventHead: "Priyanshu Pathak,Bratya Bandhu Bhattacharya",
     images: ["page26_img1.jpeg", "iempact_new_16.jpg", "iempact_new_17.jpg", "iempact_new_18.jpg", "iempact_new_19.jpg", "iempact_new_20.jpg", "iempact_new_11.jpg", "iempact_new_12.jpg", "iempact_new_13.jpg", "iempact_new_14.jpg", "iempact_new_15.jpg", "iempact_new_6.jpg", "iempact_new_7.jpg", "iempact_new_8.jpg", "iempact_new_9.jpg", "iempact_new_10.jpg", "iempact_new_1.jpg", "iempact_new_2.jpg", "iempact_new_3.jpg", "iempact_new_4.jpg", "iempact_new_5.jpg", "page26_img2.jpeg", "page26_img3.jpeg", "page26_img4.jpeg"],
     featured: true,
   },
@@ -159,7 +159,7 @@ export const events: Event[] = [
     desc: "Young innovators, aspiring entrepreneurs, and business enthusiasts gathered to promote startup culture, innovation, and practical business learning.",
     fullDesc: "The Bengal E-Summit 2025 was an entrepreneurial event held on 26th–27th July at IEM Gurukul Building. It brought together young innovators, aspiring entrepreneurs, and business enthusiasts. The summit aimed to promote startup culture, innovation, and practical business learning through a variety of engaging events.",
     highlights: ["26th–27th July 2025", "IEM Gurukul Building", "Startup Culture", "Innovation & Ideation"],
-    eventHead: "Anuran De, Surjyanshu Ghosh",
+    eventHead: "Surjyanshu Ghosh",
     images: ["page10_img1.jpeg", "esummit_new_1.jpg", "esummit_new_2.jpg", "esummit_new_3.jpg", "esummit_new_4.jpg", "esummit_new_5.jpg", "esummit_new_6.jpg", "esummit_new_7.jpg", "esummit_new_8.jpg", "esummit_new_9.jpg", "esummit_new_10.jpg", "esummit_new_11.jpg"],
   },
   {
